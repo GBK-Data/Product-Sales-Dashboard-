@@ -14,6 +14,7 @@ This project is a sales performance dashboard built in Power BI. It analyzes key
 - Category Performance
 - Regional Performance
 
+## Dashboard Preview
 <img width="1156" height="643" alt="image" src="https://github.com/user-attachments/assets/05fb75c9-a36c-4aec-8a18-72d25bcefdc2" />
 
 ## Key Insights
